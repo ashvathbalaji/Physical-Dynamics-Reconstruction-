@@ -18,9 +18,9 @@ Deep learning and symbolic regression for reconstructing noisy trajectories and 
 - NumPy
 - SciPy
 - PySR
+- Matplotlib
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Results
 
@@ -32,3 +32,33 @@ This project is licensed under the MIT License.
 
 ### Coupled Spring-Pendulum Hybrid
 ![Hybrid Results](results/HybridSystem.png)
+
+## Installation
+
+Clone the repository:
+
+    git clone YOUR_REPOSITORY_URL
+    cd YOUR_REPOSITORY_FOLDER
+
+Install the required dependencies:
+
+    pip install -r requirements.txt
+
+## Execution
+
+Run each mechanical system independently:
+
+**Spring-Mass Oscillator**
+
+    python spring_sim.py
+
+**Nonlinear Pendulum**
+
+    python pendulum_sim.py
+
+**Coupled Spring-Pendulum Hybrid**
+
+    python hybrid_sim.py
+
+## License
+This project is licensed under the MIT License.
