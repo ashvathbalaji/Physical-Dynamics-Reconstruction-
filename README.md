@@ -21,3 +21,14 @@ Deep learning and symbolic regression for reconstructing noisy trajectories and 
 
 ## License
 This project is licensed under the MIT License.
+
+## Results
+
+### Spring-Mass Oscillator
+![Spring-Mass Results](results/SpringSystem.png)
+
+### Nonlinear Pendulum
+![Pendulum Results](results/PendulumSystem.png)
+
+### Coupled Spring-Pendulum Hybrid
+![Hybrid Results](results/HybridSystem.png)
