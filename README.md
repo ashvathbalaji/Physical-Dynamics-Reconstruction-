@@ -37,13 +37,15 @@ Deep learning and symbolic regression for reconstructing noisy trajectories and 
 
 Clone the repository:
 
-    git clone YOUR_REPOSITORY_URL
-    cd YOUR_REPOSITORY_FOLDER
+    git clone https://github.com/ashvathbalaji/Physical-Dynamics-Reconstruction-.git
+
+Navigate to the project directory:
+
+    cd Physical-Dynamics-Reconstruction-
 
 Install the required dependencies:
 
     pip install -r requirements.txt
-
 ## Execution
 
 Run each mechanical system independently:
